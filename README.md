@@ -4,7 +4,7 @@ This repo describes the bioinformatic workflow for the manuscript "Distinct bact
 
 The repo contains:
 
-- [DADA2 workflow](./SO248_DADA2.Rmd)
+- [DADA2 workflow](./SO248_Alg_DADA2.Rmd)
 - Resulting [ASV](./SO248_Alg_seqtab.txt) and [taxonomy](./SO248_Alg_tax.txt) tables
 - [ASV sequences](./SO248_Alg_seqtab.txt)
 - Script for formatting raw sequence tables
