@@ -6,7 +6,7 @@ DNA- and RNA-based reads were processed into amplicon sequence variants, derived
 
 The repo contains:
 
-- [DADA2 workflow](./dada.Rmd)
+- [ASV generatoin](./dada.Rmd) and [chimera removal / taxonmy assignment](./MergeChimTax.Rmd)
 - Resulting [ASV](./Alg-DOM_v138.1_seqtab.txt) and [taxonomy](./Alg-DOM_v138.1_tax.txt) tables
 - [ASV sequences](./Alg-DOM_v138.1_asv.fasta)
 - [Metadata](./metadata.txt)
