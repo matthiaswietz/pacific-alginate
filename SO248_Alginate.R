@@ -14,7 +14,7 @@ library(reshape2)
 
 ##### 16S PRE-PROCESSING ##########################
 ##### RAW DATA -- LOAD AND FORMATTING ############
-## OTU IMPORT and TAXONOMY ##
+## ASV IMPORT and TAXONOMY ##
 
 ## NOTE: original count/tax tables include another SO248 experiment (DOM addition)
 ## DADA was run together, since experiment based on the same original seawater 
