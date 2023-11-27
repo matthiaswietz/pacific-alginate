@@ -10,5 +10,5 @@ The repo contains:
 - Resulting [ASV](./Alg-DOM_v138.1_seqtab.txt) and [taxonomy](./Alg-DOM_v138.1_tax.txt) tables
 - [ASV sequences](./Alg-DOM_v138.1_asv.fasta)
 - [Metadata](./metadata.txt)
-- [Script for analyses and plotting](./metadata.R)
+- [Script for analyses and plotting](./SO248_Alginate.R)
 
